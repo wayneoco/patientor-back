@@ -1,0 +1,22 @@
+[08:34:23.361] Global cache location '/Users/wayneolson/Library/Caches/typescript/4.9', safe file path '/users/wayneolson/dev/courses/full-stack-open/part9/patientor-back/node_modules/typescript/lib/typingsafelist.json', types map path /users/wayneolson/dev/courses/full-stack-open/part9/patientor-back/node_modules/typescript/lib/typesmap.json
+[08:34:23.362] Processing cache location '/Users/wayneolson/Library/Caches/typescript/4.9'
+[08:34:23.362] Trying to find '/Users/wayneolson/Library/Caches/typescript/4.9/package.json'...
+[08:34:23.362] Loaded content of '/Users/wayneolson/Library/Caches/typescript/4.9/package.json': {"private":true,"dependencies":{"types-registry":"^0.1.620"},"devDependencies":{"@types/cors":"^2.8.12","@types/eslint":"^8.4.10","@types/express":"^4.17.14"}}
+[08:34:23.362] Loaded content of '/Users/wayneolson/Library/Caches/typescript/4.9/package-lock.json'
+[08:34:23.367] Adding entry into typings cache: 'cors' => '/Users/wayneolson/Library/Caches/typescript/4.9/node_modules/@types/cors/index.d.ts'
+[08:34:23.368] Adding entry into typings cache: 'eslint' => '/Users/wayneolson/Library/Caches/typescript/4.9/node_modules/@types/eslint/index.d.ts'
+[08:34:23.369] Adding entry into typings cache: 'express' => '/Users/wayneolson/Library/Caches/typescript/4.9/node_modules/@types/express/index.d.ts'
+[08:34:23.369] Finished processing cache location '/Users/wayneolson/Library/Caches/typescript/4.9'
+[08:34:23.369] Process id: 92290
+[08:34:23.369] NPM location: /Users/wayneolson/.nvm/versions/node/v14.17.4/bin/npm (explicit '--npmLocation' not  provided)
+[08:34:23.369] validateDefaultNpmLocation: false
+[08:34:23.369] Npm config file: /Users/wayneolson/Library/Caches/typescript/4.9/package.json
+[08:34:23.369] Updating types-registry npm package...
+[08:34:23.369] Exec: /Users/wayneolson/.nvm/versions/node/v14.17.4/bin/npm install --ignore-scripts types-registry@latest
+[08:34:51.917]     Succeeded. stdout:
+    
+    up to date, audited 15 packages in 28s
+
+found 0 vulnerabilities
+
+[08:34:51.918] Updated types-registry npm package

@@ -1,0 +1,21 @@
+[13:56:31.836] Global cache location '/Users/wayneolson/Library/Caches/typescript/4.9', safe file path '/users/wayneolson/dev/courses/full-stack-open/part9/patientor-back/node_modules/typescript/lib/typingsafelist.json', types map path /users/wayneolson/dev/courses/full-stack-open/part9/patientor-back/node_modules/typescript/lib/typesmap.json
+[13:56:31.837] Processing cache location '/Users/wayneolson/Library/Caches/typescript/4.9'
+[13:56:31.837] Trying to find '/Users/wayneolson/Library/Caches/typescript/4.9/package.json'...
+[13:56:31.838] Loaded content of '/Users/wayneolson/Library/Caches/typescript/4.9/package.json': {"private":true,"dependencies":{"types-registry":"^0.1.620"},"devDependencies":{"@types/eslint":"^8.4.10","@types/express":"^4.17.14"}}
+[13:56:31.838] Loaded content of '/Users/wayneolson/Library/Caches/typescript/4.9/package-lock.json'
+[13:56:31.842] Adding entry into typings cache: 'eslint' => '/Users/wayneolson/Library/Caches/typescript/4.9/node_modules/@types/eslint/index.d.ts'
+[13:56:31.843] Adding entry into typings cache: 'express' => '/Users/wayneolson/Library/Caches/typescript/4.9/node_modules/@types/express/index.d.ts'
+[13:56:31.843] Finished processing cache location '/Users/wayneolson/Library/Caches/typescript/4.9'
+[13:56:31.843] Process id: 33285
+[13:56:31.843] NPM location: /Users/wayneolson/.nvm/versions/node/v14.17.4/bin/npm (explicit '--npmLocation' not  provided)
+[13:56:31.843] validateDefaultNpmLocation: false
+[13:56:31.844] Npm config file: /Users/wayneolson/Library/Caches/typescript/4.9/package.json
+[13:56:31.844] Updating types-registry npm package...
+[13:56:31.844] Exec: /Users/wayneolson/.nvm/versions/node/v14.17.4/bin/npm install --ignore-scripts types-registry@latest
+[13:56:32.280]     Succeeded. stdout:
+    
+    up to date, audited 14 packages in 278ms
+
+found 0 vulnerabilities
+
+[13:56:32.280] Updated types-registry npm package
